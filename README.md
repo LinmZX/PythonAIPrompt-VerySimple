@@ -1,7 +1,5 @@
 # PythonAIPrompt — Very Simple
 
----
-
 ## 🇧🇷 PT-BR  
 Prompt simples de IA com Python
 
@@ -19,8 +17,6 @@ Este código contém imports de subclasses da biblioteca **LangChain** e do **do
 
 - **load_dotenv**  
   Utilizado para carregar as variáveis de ambiente a partir do arquivo `.env`.
-
----
 
 ### Como executar:
 
@@ -54,9 +50,7 @@ This code contains imports from **LangChain** sub-libraries and
 -   **load_dotenv**  
     Loads environment variables from the `.env` file.
 
-------------------------------------------------------------------------
-
-### ▶ How to execute
+### How to execute
 
 1.  Create a `.env` file in the root directory of the project.
 2.  Add the variable:
